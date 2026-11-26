@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "",
+	"Modules": [],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Modio",
+			"Enabled": true
+		},
+		{
+			"Name": "ModioUGC",
+			"Enabled": true
+		},
+		{
+			"Name": "UEArtistPlugin",
+			"Enabled": true
+		}
+	]
+}

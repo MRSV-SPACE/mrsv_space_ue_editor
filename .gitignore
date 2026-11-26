@@ -1,0 +1,24 @@
+# Unreal build output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Generated IDE projects
+*.xcworkspace/
+*.xcodeproj/
+*.sln
+*.suo
+*.user
+.vs/
+.vscode/
+.idea/
+
+# Injected at CI time: the plugin repo is cloned into Plugins/
+Plugins/
+
+# Local secrets
+.env
+
+# Staging area for files that belong in the plugin repo (not this one)
+ci-staging/
