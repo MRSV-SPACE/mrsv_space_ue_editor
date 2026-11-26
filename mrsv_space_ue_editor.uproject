@@ -21,7 +21,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "UEArtistPlugin",
+			"Name": "MRSVSpaceArtistPlugin",
 			"Enabled": true
 		}
 	]

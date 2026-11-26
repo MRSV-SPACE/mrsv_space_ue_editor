@@ -20,5 +20,8 @@ Plugins/
 # Local secrets
 .env
 
+# macOS
+.DS_Store
+
 # Staging area for files that belong in the plugin repo (not this one)
 ci-staging/
